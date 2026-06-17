@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**LiyangZhan/LiyangZhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Liyang Zhan
 
-Here are some ideas to get you started:
+I'm a Statistics Master's student at UC San Diego, interested in data analysis, machine learning, financial data, and AI data engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- NYC Housing Price Regression
+- Customer Segmentation and RFM Analysis
+- AI Reasoning Fine-tuning with Gemma
+
+## Skills
+
+Python, SQL, Pandas, NumPy, scikit-learn, LLM, Machine Learning
