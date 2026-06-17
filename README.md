@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi, I'm Liyang Zhan
+
+# Hi👋, I'm LEON
 
 I'm a Statistics Master's student at UC San Diego, interested in data analysis, machine learning, financial data, and AI data engineering.
 
