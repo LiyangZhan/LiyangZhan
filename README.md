@@ -1,6 +1,6 @@
 
 
-# Hi👋, I'm LEON
+# Hi👋, I'm Leon
 
 I'm a Statistics Master's student at UC San Diego, interested in data analysis, machine learning, financial data, and AI data engineering.
 
